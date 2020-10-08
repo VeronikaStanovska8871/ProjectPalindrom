@@ -1,6 +1,7 @@
 package sk.kosickaakademia.stanovska.projectmath.cyklus;
 
 import java.util.Scanner;
+//Veronika
 
 public class Main {
     public static void main(String[] args) {
